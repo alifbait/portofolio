@@ -1,59 +1,387 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Alif Bai'atur Ridhwan El Habibie - Personal Portfolio
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+> Personal portfolio website showcasing my projects, technical skills, organizational experience, and journey as an Informatics Engineering student.
 
-## About Laravel
+🌐 **Portfolio:** Coming Soon  
+💼 **GitHub:** https://github.com/alifbait  
+📧 **Email:** alifbaiatur@gmail.com  
+📍 **Location:** Surabaya, Indonesia
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## About
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+This repository contains the source code of my personal portfolio website.
 
-## Learning Laravel
+The portfolio is designed to present my background, technical skills, selected projects, organizational experience, education, and contact information in a clean and professional interface.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+I am an **Informatics Engineering student at Universitas Trunojoyo Madura** with an interest in **Web Development** and software development.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+The main purpose of this portfolio is to document my learning journey and showcase projects that represent my current skills and experience as I prepare for professional opportunities.
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Tech Stack
 
-### Premium Partners
+### Frontend
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- Blade Templates
+- Vite
 
-## Contributing
+### Backend
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- PHP
+- Laravel
 
-## Code of Conduct
+### Development Tools
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Git
+- GitHub
+- VS Code
+- Composer
+- Node.js
+- npm
+- XAMPP
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Featured Projects
+
+### 1. Sistem Absensi Peserta Magang
+
+A full-stack attendance management system developed independently from scratch.
+
+**Role:** Full-Stack Developer  
+**Type:** Personal Project
+
+#### Technologies
+
+- PHP
+- CodeIgniter 4
+- MySQL
+- Tailwind CSS
+- Alpine.js
+- Cloudinary
+- Geolocation API
+
+#### Main Features
+
+- Check-in and check-out attendance
+- GPS-based location validation
+- Selfie verification
+- Leave and permission submission
+- Attendance monitoring
+- Attendance reporting
+
+🔗 **Repository:**  
+https://github.com/alifbait/bakorwil-absensi
+
+---
+
+### 2. Pendata
+
+A data mining project developed individually as part of an academic course.
+
+The project focuses on processing and analyzing data through several stages, including data understanding, data preparation, data processing, data analysis, and decision tree implementation.
+
+**Role:** Individual Developer  
+**Type:** Academic Project
+
+🔗 **Live Project:**  
+https://alifbait.github.io/pendata/
+
+---
+
+### 3. Omah ID
+
+A collaborative web project developed as part of an academic team project.
+
+My primary contribution focused on **UI/UX design and frontend implementation**, while also contributing to backend development alongside the team.
+
+**Role:** UI/UX Designer & Frontend Developer  
+**Type:** Academic Team Project
+
+#### Main Contributions
+
+- Designed the user interface in Figma
+- Implemented the frontend
+- Worked with teammates on application development
+- Assisted with backend implementation
+
+---
+
+## Portfolio Sections
+
+The portfolio currently includes:
+
+- **Hero** - Personal introduction and primary call-to-action
+- **About Me** - Background, education, and current focus
+- **Skills & Technologies** - Technical skills and development tools
+- **Featured Projects** - Selected academic and personal projects
+- **Organization Experience** - Organizational and leadership experience
+- **Education** - Academic background
+- **Contact** - Contact information and CV
+- **Footer** - Social and project information
+
+---
+
+## Design Direction
+
+The portfolio follows a minimal and professional visual direction designed for recruiter-friendly presentation.
+
+### Design Principles
+
+- Minimal and clean interface
+- Light theme
+- Warm neutral color palette
+- Clear typography
+- Subtle interactions
+- Moderate animations
+- Responsive layout
+- Accessible interface
+- Lightweight implementation
+
+The visual identity uses a warm neutral palette:
+
+| Color | Hex |
+|---|---|
+| Background | `#F3EEEA` |
+| Surface | `#EBE3D5` |
+| Border / Muted | `#B0A695` |
+| Primary Accent | `#776B5D` |
+
+---
+
+## Project Structure
+
+The project follows the standard Laravel application structure.
+
+```text
+Portofolio/
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+│   ├── images/
+│   └── files/
+├── resources/
+│   ├── css/
+│   ├── js/
+│   └── views/
+├── routes/
+├── storage/
+├── tests/
+├── .env.example
+├── artisan
+├── composer.json
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## Local Development
+
+### Requirements
+
+Make sure the following tools are installed:
+
+- PHP 8.2+
+- Composer
+- Node.js
+- npm
+- Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/alifbait/portofolio.git
+```
+
+Navigate into the project:
+
+```bash
+cd portofolio
+```
+
+Install PHP dependencies:
+
+```bash
+composer install
+```
+
+Install frontend dependencies:
+
+```bash
+npm install
+```
+
+Create the environment file:
+
+```bash
+cp .env.example .env
+```
+
+Generate the Laravel application key:
+
+```bash
+php artisan key:generate
+```
+
+Run the Laravel development server:
+
+```bash
+php artisan serve
+```
+
+In another terminal, run Vite:
+
+```bash
+npm run dev
+```
+
+Open the application at:
+
+```text
+http://127.0.0.1:8000
+```
+
+---
+
+## Available Commands
+
+### Run Laravel
+
+```bash
+php artisan serve
+```
+
+### Run Vite
+
+```bash
+npm run dev
+```
+
+### Build frontend assets
+
+```bash
+npm run build
+```
+
+### Run tests
+
+```bash
+php artisan test
+```
+
+### Code formatting
+
+```bash
+vendor/bin/pint
+```
+
+---
+
+## Development Roadmap
+
+The portfolio is being developed incrementally.
+
+### Phase 1 - Public Portfolio
+
+- [x] Laravel project setup
+- [x] Blade-based portfolio
+- [x] Tailwind CSS
+- [x] Vite
+- [x] Hero section
+- [x] About section
+- [x] Skills section
+- [x] Projects section
+- [x] Organization experience
+- [x] Education
+- [x] Contact section
+- [x] Footer
+- [ ] Responsive refinement
+- [ ] Motion and interaction refinement
+- [ ] Performance optimization
+- [ ] Deployment
+
+### Phase 2 - Dynamic Content
+
+Planned improvements:
+
+- [ ] Database integration
+- [ ] Laravel migrations
+- [ ] Eloquent models
+- [ ] Dynamic project data
+- [ ] Dynamic skills
+- [ ] Dynamic experience
+- [ ] Dynamic education
+
+### Phase 3 - Admin System
+
+Future development may include:
+
+- [ ] Authentication
+- [ ] Admin dashboard
+- [ ] Project CRUD
+- [ ] Skills management
+- [ ] Experience management
+- [ ] Education management
+- [ ] Content management
+
+---
+
+## Learning Goals
+
+This project is also part of my learning process as an Informatics Engineering student.
+
+Through this portfolio, I am learning and practicing:
+
+- Laravel fundamentals
+- Blade templating
+- Tailwind CSS
+- Frontend architecture
+- Responsive web development
+- Git and GitHub workflow
+- Clean and maintainable code
+- UI/UX implementation
+- Modern web development practices
+
+The project is intentionally developed incrementally so that new technologies and features can be introduced as my skills grow.
+
+---
+
+## Project Philosophy
+
+This portfolio is built around a simple principle:
+
+> **Build honestly, learn continuously, and improve through real projects.**
+
+The goal is not to present an exaggerated skill set, but to document real work, current capabilities, and continuous growth toward professional software development.
+
+---
+
+## Contact
+
+If you would like to connect or discuss a project, feel free to reach out.
+
+**Alif Bai'atur Ridhwan El Habibie**
+
+- 📍 Surabaya, Indonesia
+- 📧 alifbaiatur@gmail.com
+- 💻 https://github.com/alifbait
+- 📱 WhatsApp: https://wa.me/6283839996315
+
+---
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is a personal portfolio and is primarily intended for personal and educational purposes.
